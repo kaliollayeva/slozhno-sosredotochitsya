@@ -9,4 +9,5 @@
   --border-color: #ff0070;
   --text-in-decor: #000028;
   --text-in-card-title: var(--accent-color);
+  --accent-color-in-hover: 255, 0, 112;
 }

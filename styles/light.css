@@ -9,6 +9,7 @@
   --border-color: #353430;
   --text-in-decor: #353430;
   --text-in-card-title: var(--text-in-decor);
+  --accent-color-in-hover: 53, 52, 48;
 }
 
 .page.theme_light .rec {
@@ -27,6 +28,7 @@
     --border-color: #353430;
     --text-in-decor: #353430;
     --text-in-card-title: var(--text-in-decor);
+    --accent-color-in-hover: 53, 52, 48;
   }
   .rec {
     display: none;

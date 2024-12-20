@@ -118,7 +118,7 @@ a:focus-visible {
 
 .header__theme-menu-button:hover {
   outline: none;
-  border: 1px solid var(--text-in-card-title);
+  border: 1px solid rgb(var(--accent-color-in-hover), 0.4);
 }
 
 .header__theme-menu-button_active {
@@ -207,7 +207,6 @@ a:focus-visible {
 .gallery-items {
   width: 100%;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
   gap: 10px;
 }
 
